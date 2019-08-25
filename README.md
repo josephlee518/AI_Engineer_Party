@@ -1,4 +1,12 @@
 # AI_Engineer_Party
+
+- 출처: 송호연(https://www.facebook.com/ai.chris.chris)님 Facebook 게시글
+
+- 제출은 다음 링크 (https://forms.gle/AaqDME7sA7TobnXy5)를 통해서 제출할 수 있음
+
+    - Github Repo Link
+    - Serverless API Call Example (CURL)
+
 - AI Engineer Party 문제 제출
 
 ## 요구사항
